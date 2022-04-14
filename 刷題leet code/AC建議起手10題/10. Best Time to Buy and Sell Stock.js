@@ -33,6 +33,8 @@ Constraints:
  * param {number[]} prices
  * return {number}
  */
+
+ https://leetcode.com/problems/best-time-to-buy-and-sell-stock/discuss/39267/Javascript-solution-if-anyone-is-interested 留言區 uttampankajsingh 的解答
 var maxProfit = function(prices) {
   let minCost = prices[0];
   let profit = 0;
